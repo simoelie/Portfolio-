@@ -12,11 +12,11 @@ Recruiters need to understand both the work and the reasoning behind it. The por
 
 ## Dataset and confidentiality
 
-The Power BI report is externally published. The academic research links to the public UQAM thesis. The healthcare cases are anonymized and contain no employer records. The business process requirements and flow are illustrative proposed artifacts.
+The Power BI report is externally published. The academic research includes the thesis PDF (`memoire-elie-simo.pdf`) provided by the author. The healthcare cases are anonymized and contain no employer records. The business process requirements and flow are illustrative proposed artifacts.
 
 ## Methodology and tools
 
-The case pages explain KPI framing, requirements, process mapping, UAT, trend analysis, logit, bivariate probit and marginal effects. Technologies cited include Power BI, Stata, SQL, Python, DAX and Power Query where supported by the portfolio and CV; no unpublished implementation code is represented as available.
+The case pages explain KPI framing, requirements, process mapping, UAT, trend analysis, long-difference panel estimation and a climate-based shift-share instrumental variable. Technologies cited include Power BI, Stata, SQL, Python, DAX and Power Query where supported by the portfolio and CV; no unpublished implementation code is represented as available.
 
 ## Key insights and recommendations
 
