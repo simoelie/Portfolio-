@@ -32,4 +32,4 @@ No build is needed. Open `index.html`, or run `python3 -m http.server 8000` and 
 
 ## Assets
 
-`portrait-elie-simo.jpeg` is the user-supplied photograph. `tableau-de-bord-arriere-plan.jpeg` and `CV_Elie_Simo.pdf` are retained from the existing repository.
+`portrait-elie-simo.jpeg` is the user-supplied portrait. `certification-microsoft-pl300-elie-simo.jpeg` is the user-supplied Microsoft Power BI certification image, linked at full size from the education section. `tableau-de-bord-arriere-plan.jpeg` and `CV_Elie_Simo.pdf` are retained from the existing repository.
