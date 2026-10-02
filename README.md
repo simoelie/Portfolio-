@@ -33,3 +33,11 @@ No build is needed. Open `index.html`, or run `python3 -m http.server 8000` and 
 ## Assets
 
 `portrait-elie-simo.jpeg` is the user-supplied portrait. `certification-microsoft-pl300-elie-simo.jpeg` is the user-supplied Microsoft Power BI certification image, linked at full size from the education section. `tableau-de-bord-arriere-plan.jpeg` and `CV_Elie_Simo.pdf` are retained from the existing repository.
+
+## Proof of work update — October 2026
+
+The home page now includes a ten-step keyboard-accessible absenteeism case explorer and ten bilingual illustrative artifacts: requirements, AS-IS, TO-BE, stakeholder map, RACI, user stories, acceptance criteria, RTM, UAT and KPI definitions. Employer documentation is never implied. UAT remains pending; no execution or approval is claimed. The original reminder account is distinguished from proposed process extensions.
+
+Both reports remain grouped under `case-study.html#dashboard`. The second report's undocumented context and model are explicitly left unclaimed. The thesis PDF is the authority for the research description. Existing experience, CV, portrait, certification and thesis assets are preserved.
+
+The new components use plain HTML, CSS and JavaScript without runtime dependencies. Artifact hash links expand their corresponding details element. Tabs support arrow keys, Home and End. Language choice persists between pages. Tables scroll within their containers on small screens.
